@@ -20,3 +20,7 @@ DerivedData
 #CocoaPods
 Pods
 Podfile.lock
+
+/BugHub for Mac/BugHub/Build/
+
+/BugHub for Mac/BugHub/BugHub.xcodeproj/project.xcworkspace/xcshareddata/BugHub.xccheckout
